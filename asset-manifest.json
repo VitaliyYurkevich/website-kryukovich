@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/website-kryukovich/static/css/main.e6c13ad2.css",
+    "main.js": "/website-kryukovich/static/js/main.a0100dbf.js",
+    "static/js/787.b8604435.chunk.js": "/website-kryukovich/static/js/787.b8604435.chunk.js",
+    "static/media/HeaderPhotoIcon.png": "/website-kryukovich/static/media/HeaderPhotoIcon.9ec2040f2fbbb55a7b98.png",
+    "static/media/photo3.jpg": "/website-kryukovich/static/media/photo3.b219860f6bacd6b8c375.jpg",
+    "static/media/icons-sprite.svg": "/website-kryukovich/static/media/icons-sprite.3983a10ab449549b06ba942f8a84df8a.svg",
+    "static/media/phone.png": "/website-kryukovich/static/media/phone.9b23ac9384787c7d44e3.png",
+    "index.html": "/website-kryukovich/index.html",
+    "main.e6c13ad2.css.map": "/website-kryukovich/static/css/main.e6c13ad2.css.map",
+    "main.a0100dbf.js.map": "/website-kryukovich/static/js/main.a0100dbf.js.map",
+    "787.b8604435.chunk.js.map": "/website-kryukovich/static/js/787.b8604435.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a0100dbf.js"
+  ]
+}
